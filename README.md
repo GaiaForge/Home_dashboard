@@ -1,8 +1,7 @@
 # Home Dashboard
 
 ESP32-S3 touchscreen wall dashboard, built with LVGL, plus a standalone
-autonomous irrigation/pump controller. Part of GaiaForge's MicroClimate
-Monitor system.
+autonomous irrigation/pump controller. 
 
 ## What it does
 
