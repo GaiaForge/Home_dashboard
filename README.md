@@ -59,7 +59,7 @@ safety comment block at the top of `valve-controller/src/main.cpp`. In short:
 ## Architecture
 
 The panel talks directly to the standalone valve controller over WiFi
-(HTTP) — irrigation scheduling does not go through the MicroClimate server.
+(HTTP) 
 The valve controller runs its own schedule/threshold logic locally from
 NVS-stored config and never depends on the panel or network to behave
 safely.
